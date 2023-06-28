@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hello, I'm Nyoman 👋
 
+- 🔭 I’m currently a Computer Science student at Universitas Pendidikan Indonesia
+- 👀 I’m interested in Game Development, System Analyst, and Web Development
 <!--
 **nyomanari21/nyomanari21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
