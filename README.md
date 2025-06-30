@@ -1,7 +1,7 @@
-### Hello, I'm Nyoman 👋
+### Hello, I'm Nyoman Ari 👋
 
-- 🔭 I’m currently a Computer Science student at Universitas Pendidikan Indonesia
-- 👀 I’m interested in Game Development, System Analyst, Web Development, and Mobile Development
+- 🔭 I’m I am a fresh graduate majoring in Computer Science from Universitas Pendidikan Indonesia
+- 👀 I’m interested in System Analyst, Quality Assurance, Software Development, and Game Development
 <!--
 **nyomanari21/nyomanari21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
